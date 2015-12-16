@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"css/go.scss"
+	],
+	"mappings": "AAAA,EAAE,CAAA;EACA,UAAU,EAAC,IAAK,GACjB",
+	"names": []
+}

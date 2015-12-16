@@ -311,3 +311,49 @@ img{
         page-break-after: avoid;
     }
 }
+
+
+/*/////// styles.css*/
+img{
+width:300px;
+height:200px;
+}
+
+.callout1{
+background-color: lightcyan;
+}
+.warning1{
+
+color: lightcoral;
+}
+.blue{
+background: blue;
+}
+img{
+  width:300px;
+  height:200px;
+}
+
+.del {
+  height: 40px;
+  width: 40px;
+}
+#del2 {
+  height: 50px;
+  width: 45px;
+}
+.h1show {
+  text-shadow: 2px 2px 1px red ;
+  
+  color: orange;
+  font-size: 36px;
+  font-weight: bold;
+}
+.b12{
+        border: solid thin red;
+        font-weight: bold;
+      }
+      .imgclass{
+ width:300px;
+  height:150px;       
+      }
